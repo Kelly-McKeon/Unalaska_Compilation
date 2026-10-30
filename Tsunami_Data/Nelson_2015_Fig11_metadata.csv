@@ -1,0 +1,15 @@
+column,bed,core,age_constraint,dist_min,dist_max,median,p2.3,p97.7
+0,A,D8,peat rate only,-118,142,15,-41,75
+1,C,D8,OSL,2,182,93,55,132
+2,D,D8,OSL,72,257,170,132,207
+3,E,D8,peat rate only,162,416,280,212,346
+4,H,D8,peat rate only,1285,2040,1650,1461,1849
+5,I,D8,max+min 14C,1710,2120,1935,1835,2013
+6,K,D8,peat rate only,1900,2285,2097,2009,2196
+7,N,D8,peat rate only,2050,2700,2431,2234,2594
+8,O,D8,max or min 14C,2085,2755,2521,2360,2688
+9,P,D8,peat rate only,2485,3050,2728,2600,2893
+10,Q,D8,peat rate only,2550,3116,2798,2668,2959
+11,R,D8,peat rate only,2730,3302,3049,2888,3170
+12,S,D8,max or min 14C,2795,3378,3140,3003,3266
+13,Y,T11,max+min 14C,3993,4430,4243,4128,4365
